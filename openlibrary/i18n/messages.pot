@@ -5547,23 +5547,11 @@ msgid "Release Notes"
 msgstr ""
 
 #: lib/nav_foot.html
-msgid "Bluesky"
-msgstr ""
-
-#: lib/nav_foot.html
 msgid "Open Library on Bluesky"
 msgstr ""
 
 #: lib/nav_foot.html
-msgid "Twitter"
-msgstr ""
-
-#: lib/nav_foot.html
 msgid "Open Library on Twitter"
-msgstr ""
-
-#: lib/nav_foot.html
-msgid "GitHub"
 msgstr ""
 
 #: lib/nav_foot.html
